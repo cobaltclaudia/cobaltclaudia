@@ -9,6 +9,8 @@ Computer scientist. Coder. Book nerd. Creative creature. Circa Survive fan又.
 &ensp;<a href="https://www.instagram.com/cobaltclaudia__"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" width="30" height="40"></a>
 &ensp;<a href="https://cobaltclaudia.github.io"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width='50' height="40"></a>
 
+<h3 align="left">Stats</h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobaltclaudia&langs_count=10&theme=algolia&layout=compact&exclude_repo=github-readme-stats,cobaltclaudia.github.io)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cobaltclaudia&theme=algolia&layout=compact&show_icons=true)
 
