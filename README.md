@@ -2,7 +2,7 @@
 Computer scientist. Coder. Book nerd. Creative creature. Circa Survive fan又.
 
 <h3 align="left">Socials</h3>
-<a href="https://github.com/cobaltclaudia"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="GitHub" width="40" height="40"></a>
+<a href="https://github.com/cobaltclaudia"><img src="https://img.icons8.com/glyph-neue/64/undefined/github.png" title="GitHub" width="40" height="40"></a>
 &ensp;<a href="https://twitter.com/cobaltclaudia"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" width="40" height="40"></a>
 &ensp;<a href="https://www.youtube.com/channel/UCgN1TkNGDC5ki1WSkIpISFA"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" width="40" height="40"></a>
 &ensp;<a href="https://www.linkedin.com/in/cobaltclaudia/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" width="30" height="40"></a>
@@ -11,7 +11,7 @@ Computer scientist. Coder. Book nerd. Creative creature. Circa Survive fan又.
 
 <h3 align="left">Stats</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobaltclaudia&langs_count=10&theme=algolia&layout=compact&exclude_repo=github-readme-stats,cobaltclaudia.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobaltclaudia&langs_count=10&theme=algolia&layout=compact&exclude_repo=github-readme-stats,cobaltclaudia.github.io)](https://github.com/PencilNavigator/readme-stats-URL/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cobaltclaudia&theme=algolia&layout=compact&show_icons=true)
 
 <h3 align="left">Tools</h3>
